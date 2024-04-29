@@ -1,0 +1,277 @@
+.list
+{
+    list-style-type: none; 
+    display: inline-flex;
+    padding-left: 0;
+    position: fixed;
+    background-color: white;
+}
+.first-content
+{
+    background-color: white;
+}
+.image
+{
+    padding-left: 4rem;
+    padding-top: 0rem;
+    width:1.5rem;
+    height: 1.5rem;
+}
+.boldDesk
+{
+color: rgb(31, 31, 82);
+font-family: 'Times New Roman';
+font-size: large;
+}
+#sync
+{
+font-size: small;
+color: rgb(31, 31, 82);
+}
+.products
+{
+    color: rgb(44, 44, 88);
+    font-size: medium;
+    border-color: white;
+    border-radius: 2rem;
+    text-align: center;
+    padding-top: 0.3rem;
+    padding-left: 3rem;
+}
+.solutions
+{
+    color: rgb(44, 44, 88);
+    font-size: medium;
+    border-color: white;
+    border-radius: 2rem;
+    text-align: center;
+    padding-top: 0.3rem;
+}
+.resources
+{
+    color: rgb(44, 44, 88);
+    font-size: medium;
+    text-align: center;
+    border-color: white;
+    border-radius: 2rem;
+    padding-top: 0.3rem;
+}
+.pricing
+{
+    padding-left: 2rem;
+    background-color: white;
+    padding-top: 0.7rem;
+    color: rgb(44, 44, 88);
+    font-size: medium;
+}
+.company
+{
+    color: rgb(44, 44, 88);
+    font-size: medium;
+    text-align: center;
+    border-color: white;
+    border-radius: 2rem;
+    padding-top: 0.3rem;
+    padding-left: 1rem;
+}
+.button
+{
+    padding-left: 8rem;
+    padding-top: 0.5rem;
+}
+.free-demo-btn
+{
+    border-radius: 0.5rem;
+    border-color: orangered;
+}
+.free-trial-btn
+{
+    background-color: orangered;
+    color: white;
+    border-radius: 0.5rem;
+    border-color: orangered;
+}
+.first-content-head
+{
+    padding-top: 13rem;
+    color:rgb(31, 31, 69);
+    font-size: 5rem;
+    justify-content: center;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.first-content-para
+{
+    padding-top: 2rem;
+    text-align: center;
+    font-size: 1.7rem;
+    justify-content: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(75, 75, 104);
+    padding-bottom: 3rem;
+}
+.second-content
+{
+    background-color: rgb(193, 212, 228);
+    padding: 4rem 1rem;
+    margin-top: 5rem;
+}
+
+.second-content-right
+{
+    float: right;
+
+}
+.contact-sales
+{
+    padding-top: 2rem;
+    background-color: white;
+    border-radius: 1rem;
+    margin-left: 3rem;
+    margin-top: 2rem;
+    line-height: 2rem;
+    margin-right: 60rem;
+}
+.contact-image
+{
+   width: 4rem;
+   height:3rem; 
+   display: block;
+}
+.contact-sales-head
+{
+    font-size: 2rem;
+    padding-left: 8rem;
+    color: rgb(29, 29, 81);
+}
+.contact-sales-para
+{
+   
+    padding-left: 8rem;
+    color: rgb(29, 29, 81);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    word-spacing: 0rem;
+}
+.technical-support
+{
+    padding-top: 2rem;
+    margin-top: 4rem;
+    background-color: white;
+    margin-left: 3rem;
+    border-radius: 1rem;
+    line-height: 2rem;
+    margin-right: 60rem;
+}
+.technical-support-head
+{
+    padding-left: 8rem;
+    font-size: 2rem;
+    color: rgb(29, 29, 81);
+    line-height: 2rem;
+}
+.technical-support-para
+{
+    line-height: 2rem;
+    padding-left: 8rem;
+    color: rgb(29, 29, 81);
+}
+.contact-support
+{
+    text-decoration: none;
+    color: red;
+}
+.chat-with-us
+{
+    margin-top: 3rem;
+    margin-left: 3rem;
+    border-radius: 1rem;
+    background-color: white;
+    margin-right: 60rem;
+    padding-top: 2rem;
+    line-height: 2rem;
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+}
+.chat-with-us-head
+{
+    padding-left: 8rem;
+    font-size: 2rem;
+    color: rgb(29, 29, 81);
+}
+.chat-with-us-para
+{
+    padding-left: 8rem;
+    color: rgb(29, 29, 81); 
+}
+.start-conversation
+{
+    text-decoration: none;
+    color: red;
+}
+.message
+{
+    margin-top: -40rem;
+    margin-right: 8rem;
+    margin-left: 10rem;
+    width:30rem;
+    padding-right: 2rem;
+    padding-left: 5rem;
+    padding-top: 2rem;
+    border: 1rem 2rem;
+    align-items: center;
+    background-color: white;
+    line-height: 3rem;
+    border-radius: 1rem;
+}
+.message-head
+{
+    font-size: 2rem;
+    justify-content: center;
+    line-height: 3rem;
+    color: rgb(29, 29, 81);
+    line-height: 2rem;
+    text-align: center;
+}
+
+.message-btn
+{
+    background-color: orangered;
+    color: white;
+    border-radius: 0.5rem;
+    height: 2rem;
+}
+.link
+{
+    text-decoration: none;
+    color: blue;
+}
+.link:hover
+{
+    text-decoration: underline;
+    color: default;
+}
+.third-content
+{
+    clear: both;
+}
+.third-content-head
+{
+    font-size: 4rem;
+    text-align: center;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+}
+.usa-image
+{
+    border-radius: 1rem;
+    padding-left: 3rem;
+    
+    float: left;
+}
+.usa-addr
+{
+    margin-left: 15rem;
+}
+
+
+
